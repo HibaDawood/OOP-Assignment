@@ -26,6 +26,8 @@ This collection includes 21 hands-on exercises to master core Object-Oriented Pr
 21. **Custom Iterable**: Create `Countdown`, take start number, use `__iter__()` & `__next__()` to count down to 0 in for-loop.
 
 <h1>✅ How to Execute</h1>
+---
+
 Enter the assignment folder,
 ```bash
    cd 01_Using_Self
@@ -34,6 +36,7 @@ Run the script with:
 ```bash
    python app.py
    ```
+---
 <h1>📚 Prerequisites</h1>
 Requires only a standard Python 3+ installation, no external libraries needed.
 <h1>🎓 Learning Goals</h1>
