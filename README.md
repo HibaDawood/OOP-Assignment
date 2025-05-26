@@ -41,12 +41,12 @@ Run the script with:
 Requires only a standard Python 3+ installation, no external libraries needed.
 <h1>🎓 Learning Goals</h1>
 
-These exercises aim to teach:
+These exercises aim to teach:</br>
 
-Object initialization and manipulation
-Access and visibility rules
-Inheritance and method behavior
-Abstract design patterns
-Decorator applications
-Custom object capabilities
+Object initialization and manipulation </br>
+Access and visibility rules</br>
+Inheritance and method behavior</br>
+Abstract design patterns</br>
+Decorator applications</br>
+Custom object capabilities</br>
 Dive into Python OOP and enjoy the journey! 🌟
